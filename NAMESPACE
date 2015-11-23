@@ -1,0 +1,11 @@
+useDynLib(gyriq)
+
+export(genComplResid)
+export(testGyriq)
+importFrom(CompQuadForm,davies)
+importFrom(irlba,irlba)
+importFrom(mvtnorm,dmvnorm)
+importFrom(mvtnorm,pmvnorm)
+importFrom(mvtnorm,rmvnorm)
+importFrom("stats", "aggregate", "optimize", "pchisq", "pnorm", "qnorm", "rnorm", "stepfun", "uniroot", "var")
+importFrom("utils", "write.table")
