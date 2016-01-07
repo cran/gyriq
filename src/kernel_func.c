@@ -8,7 +8,12 @@
 *
 ********************************************************/
 
-/* kernel_func.c copied unchanged from R package 'coxKM' on Nov 13, 2014. */
+/*****
+* kernel_func.c copied unchanged from R package 'coxKM' on Nov 13, 2014.
+*
+* Lin X, Zhou Q. 2015. coxKM: Cox Kernel Machine SNP-Set Association Test.
+* R package version 0.3, URL http://www.hsph.harvard.edu/xlin/software.html#coxkm.
+*****/
 
 /********************************************************
  *

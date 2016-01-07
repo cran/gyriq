@@ -13,8 +13,8 @@ intrafamilial correlation
 \tabular{ll}{
 Package: \tab gyriq\cr
 Type: \tab Package\cr
-Version: \tab 1.0.1\cr
-Date: \tab 2015-11-22\cr
+Version: \tab 1.0.2\cr
+Date: \tab 2016-01-06\cr
 License: \tab GPL (>= 2) \cr
 }
 
@@ -62,6 +62,17 @@ with censored data. Biometrika 82:835-845.
 Leclerc M, The Consortium of Investigators of Modifiers of BRCA1/2, Simard J, 
 Lakhal-Chaieb L. 2015. SNP set association testing for survival outcomes in 
 the presence of intrafamilial correlation. Genetic Epidemiology 39:406-414.
+
+Lin X, Zhou Q. 2015. coxKM: Cox kernel machine SNP-set association test. R 
+package version 0.3, URL http://www.hsph.harvard.edu/xlin/software.html#coxkm.
+
+Lin X, Cai T, Wu M, Zhou Q, Liu G, Christiani D, Lin X. 2011. Survival 
+kernel machine SNP-set analysis for genome-wide association studies. Genetic 
+Epidemiology 35:620-631.
+
+Cai T, Tonini G, Lin X. 2011. Kernel machine approach to testing the 
+significance of multiple genetic markers for risk prediction. Biometrics 
+67:975-986.
 }
 \keyword{package}
 

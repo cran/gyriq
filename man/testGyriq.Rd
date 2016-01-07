@@ -132,5 +132,16 @@ case-control whole-exome sequencing studies. Am J Hum Genet 91:224-237.
 Duchesne P, Lafaye De Micheaux P. 2010. Computing the distribution of 
 quadratic forms: further comparisons between the Liu-Tang-Zhang approximation
 and exact methods. Comput Stat Data Anal 54:858-862.
+
+Lin X, Zhou Q. 2015. coxKM: Cox kernel machine SNP-set association test. R 
+package version 0.3, URL http://www.hsph.harvard.edu/xlin/software.html#coxkm.
+
+Lin X, Cai T, Wu M, Zhou Q, Liu G, Christiani D, Lin X. 2011. Survival 
+kernel machine SNP-set analysis for genome-wide association studies. Genetic 
+Epidemiology 35:620-631.
+
+Cai T, Tonini G, Lin X. 2011. Kernel machine approach to testing the 
+significance of multiple genetic markers for risk prediction. Biometrics 
+67:975-986.
 }
 
